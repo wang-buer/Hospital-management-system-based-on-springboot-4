@@ -1,10 +1,4 @@
-# 基于springboot的医院管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**医院4** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于springboot的医院管理系统4
 
 ## 1、项目介绍
 
@@ -36,43 +30,40 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132059460.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208132059460.jpg)
 
 ### 4.2管理员模块
 
-![管理员-报表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132100230.jpg)
+![管理员-报表](https://www.codeshop.fun/Typora-Images/202208132100230.jpg)
 
-![管理员-报表日统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132100272.jpg)
+![管理员-报表日统计](https://www.codeshop.fun/Typora-Images/202208132100272.jpg)
 
-![管理员-账号管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132100944.jpg)
+![管理员-账号管理](https://www.codeshop.fun/Typora-Images/202208132100944.jpg)
 
-![管理员-病患管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132100649.jpg)
+![管理员-病患管理](https://www.codeshop.fun/Typora-Images/202208132100649.jpg)
 
-![管理员-医生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132100964.jpg)
+![管理员-医生管理](https://www.codeshop.fun/Typora-Images/202208132100964.jpg)
 
 ### 4.3 医生模块
 
-![医生-药品查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132100292.jpg)
+![医生-药品查看](https://www.codeshop.fun/Typora-Images/202208132100292.jpg)
 
-![医生-查看病患信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132100964.jpg)
+![医生-查看病患信息](https://www.codeshop.fun/Typora-Images/202208132100964.jpg)
 
-![医生-患者药方管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132100681.jpg)
+![医生-患者药方管理](https://www.codeshop.fun/Typora-Images/202208132100681.jpg)
 
 ### 4.4药品管理员模块
 
-![药房管理员-药品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132100803.jpg)
+![药房管理员-药品管理](https://www.codeshop.fun/Typora-Images/202208132100803.jpg)
 
-![药房管理员-药方结算](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132100335.jpg)
+![药房管理员-药方结算](https://www.codeshop.fun/Typora-Images/202208132100335.jpg)
 
 ### 4.5 病患模块
 
-![患者-查看药方](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132100162.jpg)
+![患者-查看药方](https://www.codeshop.fun/Typora-Images/202208132100162.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**医院4** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**医院**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
